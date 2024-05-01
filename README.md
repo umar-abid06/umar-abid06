@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on cross-platform mobile applications.
-- - 🌱 I’m currently learning MERN stack development for both web and mobile apps and understanding monolithic and microservices architecture.
+- - 🌱 I’m currently working on MERN stack development for both web and mobile apps and understanding monolithic and microservices architecture.
 - 👯 I’m looking to collaborate on open-source projects and improving codebases.
 - 🤔 I’m looking for help with the architecting and designing the projects and using different techs in sync with each other.
-- 💬 Ask me about and discuss me about state management and mobile applications.
-- 📫 How to reach me: my linkedIn account linkedin.com/in/muhammad-umar-abid-b3687a196.
+- 💬 Ask me about and discuss me about data, state management and mobile applications.
+- 📫 How to reach me: my linkedIn account (https://www.linkedin.com/in/umar-abid-b3687a196/).
 
 <!--
 **umar-abid06/umar-abid06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
